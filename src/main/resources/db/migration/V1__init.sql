@@ -1,0 +1,1 @@
+CREATE TABLE t_customer (id SERIAL PRIMARY KEY, name VARCHAR(255));
